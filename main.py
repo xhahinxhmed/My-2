@@ -11,9 +11,9 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # ==========================================
 # কনফিগারেশন
 # ==========================================
-BOT_TOKEN = "8932137354:AAGaV_s8mblpwoHONb1w5G97cv4qSLLlFQQ"
+BOT_TOKEN = "8960530766:AAHI_Z9TRjSGeApIVP8H1FVjBRMqoB3V_Xk"
 ADMIN_ID = 6891217464
-BOT_USERNAME = "@videoplayer1_bot"
+BOT_USERNAME = "@Direct12_bot"
 RENDER_URL = "https://telegram-bot-odb7.onrender.com"
 DB_FILE = "videos.json"
 
