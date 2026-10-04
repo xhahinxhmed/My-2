@@ -12,7 +12,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # কনফিগারেশন
 # ==========================================
 BOT_TOKEN = "8765522137:AAHnlALbe9Fp7c5N3TyJTp50MU7eF72q7EE"
-ADMIN_ID = ID: 8765522137
+ADMIN_ID = 8765522137
 BOT_USERNAME = "@MovielinkBD123_bot"
 RENDER_URL = "https://telegram-bot-odb7.onrender.com"
 WEB_APP_URL = "https://desi-hubpremium.vercel.app/"
