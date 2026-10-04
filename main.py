@@ -11,10 +11,10 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # ==========================================
 # কনফিগারেশন
 # ==========================================
-BOT_TOKEN = "8960530766:AAHI_Z9TRjSGeApIVP8H1FVjBRMqoB3V_Xk"
-ADMIN_ID = 8960530766
-BOT_USERNAME = "@Direct12_bot"
-RENDER_URL = "https://telegram-bot-odb7.onrender.com"
+BOT_TOKEN = "8844166711:AAHdFeo3d91CwCyuSti9WjaTnVOBxDE-PnA"
+ADMIN_ID = 8844166711
+BOT_USERNAME = "@premium12_bot"
+RENDER_URL = "https://my-2-d05t.onrender.com"
 WEB_APP_URL = "https://desi-hubpremium.vercel.app/"
 DB_FILE = "videos.json"
 
