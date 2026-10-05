@@ -11,9 +11,9 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # ==========================================
 # কনফিগারেশন
 # ==========================================
-BOT_TOKEN = "8844166711:AAHdFeo3d91CwCyuSti9WjaTnVOBxDE-PnA"
+BOT_TOKEN = "8989549178:AAHDUjxx7NLpRYbL1Af-4UXpz4oX45F-ZE8"
 ADMIN_ID = 6891217464
-BOT_USERNAME = "@premium12_bot"
+BOT_USERNAME = "@premium94_bot"
 RENDER_URL = "https://my-2-d05t.onrender.com"
 WEB_APP_URL = "https://desi-hubpremium.vercel.app/"
 DB_FILE = "videos.json"
